@@ -1,0 +1,59 @@
+h1{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 120px;
+}
+table{
+    margin: auto;
+}
+td{
+    height: 200px;
+    width: 400px;
+}
+img{
+    height: 300px;
+    width: 350px;
+}
+p{
+    margin-left: 110px;
+    font-family: "Mukta", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+}
+figcaption{
+    font-family: "Mukta", sans-serif;
+    font-weight: 200;
+    font-style: normal;
+
+}
+a{
+    color: #000;
+}
+#copyright{
+    text-align: center;
+}
+/* h2{
+    font-family: "Lora", serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    margin-left: 250px;
+
+}
+.fa {  
+    padding: 20px;  
+  text-align: center;  
+    margin: 5px 2px;  
+    font-size: 30px;  
+    width: 50px;  
+  }  
+.fa-linkedin {  
+    background: #007bb5;  
+    color: white;  
+  }  
+  .fa-facebook {
+    background: #3B5998;
+    color: white;
+  } */
